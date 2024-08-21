@@ -9,6 +9,8 @@ class end{
         one = null;
         two = null;
         three =null;
+        mouseX = null;
+        mouseY = null;
         Scene = "Thumbnail";
     }
 
