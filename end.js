@@ -6,9 +6,9 @@ class end{
 
     clicked(){
         type = null;
-        one = 0;
-        two = 0;
-        three =0;
+        one = null;
+        two = null;
+        three =null;
         Scene = "Thumbnail";
     }
 
